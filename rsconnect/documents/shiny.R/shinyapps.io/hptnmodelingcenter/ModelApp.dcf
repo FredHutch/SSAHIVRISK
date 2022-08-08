@@ -1,0 +1,12 @@
+name: ModelApp
+title: ModelApp
+username:
+account: hptnmodelingcenter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1084562
+bundleId: 2316480
+url: https://hptnmodelingcenter.shinyapps.io/ModelApp/
+when: 1565729596.94499
+asMultiple: FALSE
+asStatic: FALSE

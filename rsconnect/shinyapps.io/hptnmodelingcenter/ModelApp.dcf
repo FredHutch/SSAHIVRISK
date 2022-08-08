@@ -1,0 +1,13 @@
+name: ModelApp
+title:
+username:
+account: hptnmodelingcenter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1084562
+bundleId: 2663684
+url: https://hptnmodelingcenter.shinyapps.io/ModelApp/
+when: 1576197105.68606
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: calibratedparams_HPTN082_Jberg.csv|calibratedparams_VOICE_Jberg.csv
